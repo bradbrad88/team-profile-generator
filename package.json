@@ -1,14 +1,18 @@
 {
   "name": "team-profile-generator",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "A command line application for generating a team profile html template.",
+  "main": "./bin/index.js",
+  "bin": {
+    "team-profiler": "./bin/index.js"
+  },
   "scripts": {
+    "start": "node bin/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Brad Teague",
+  "license": "MIT",
   "dependencies": {
     "chalk": "^5.0.1",
     "inquirer": "^8.2.4"
