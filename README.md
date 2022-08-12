@@ -9,6 +9,18 @@
 
 A command line application for generating a team profile html template.
 
+Dynamically add team members and build an HTML file displaying your team with important links.
+
+This was built out of a need to quickly assemble details about a team.
+
+[Github repo](https://github.com/bradbrad88/team-profile-generator)
+
+[Demonstration video](https://drive.google.com/file/d/1fCgg6Vwuo5JnJfGbMcQOI46qwjHWAirM/view)
+
+![screenshot](./assets/screenshot.png)
+
+![example](./assets/example.png)
+
 ## Table of Contents
 
 - [Installation](#installation)
