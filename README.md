@@ -3,6 +3,7 @@
 [![License](https://img.shields.io/badge/License-MIT-blue)](https://opensource.org/licenses/MIT)
 ![Github Top Language](https://img.shields.io/github/languages/top/bradbrad88/team-profile-generator)
 ![Version](https://img.shields.io/badge/Version-1.0.0-blue)
+[![codecov](https://codecov.io/gh/bradbrad88/team-profile-generator/branch/main/graph/badge.svg?token=KJPVEXMG9P)](https://codecov.io/gh/bradbrad88/team-profile-generator)
 
 ## Description
 
@@ -39,9 +40,9 @@ Project license: [MIT](https://opensource.org/licenses/MIT). Copyright Brad Teag
 
 ## Contributing
 
-If you have a feature request, please make a pull request [here](https://github.com/bradbrad88/team-profile-generator) or add it as an issue [here](https://github.com/bradbrad88/team-profile-generator/issues).
+If you have a feature request, please make a pull request [on the repo](https://github.com/bradbrad88/team-profile-generator) or add it as an issue [on the issues page](https://github.com/bradbrad88/team-profile-generator/issues).
 
-If you have a bug to report, please create an issue [here](https://github.com/bradbrad88/team-profile-generator/issues).
+If you have a bug to report, please create an issue [on the issues page](https://github.com/bradbrad88/team-profile-generator/issues).
 
 ## Tests
 
